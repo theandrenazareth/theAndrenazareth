@@ -36,99 +36,100 @@ Antes de mergulhar no mundo da TI, atuei em funções administrativas, onde apre
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SPACE"
+    title="SPACE" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://icongr.am/simple/grav.svg?size=128&color=07f236&colored=false" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="FIRE" 
+    title="FIRE"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://icongr.am/devicon/codeigniter-plain.svg?size=128&color=f24207" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="LINUX" 
+    title="LINUX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://icongr.am/devicon/linux-original.svg?size=128&color=050505" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="DIAMOND"
+    title="DIAMOND" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=f3f2f2" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Brasília-DF"
+    title="Brasília-DF" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://icongr.am/entypo/location-pin.svg?size=128&color=f70202" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="WINDOWS" 
+    title="WINDOWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://icongr.am/simple/windows.svg?size=128&color=0254f7&colored=false" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="WI-FI"
+    title="WI-FI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://icongr.am/entypo/signal.svg?size=128&color=029af7" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="NETWORK" 
+    title="NETWORK"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://icongr.am/entypo/network.svg?size=128&color=029af7" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="ANDROID" 
+    title="ANDROID"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://icongr.am/fontawesome/android.svg?size=128&color=02f713" 
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="GRADUANDO" 
+    title="GRADUANDO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://icongr.am/fontawesome/graduation-cap.svg?size=128&color=0233f7" 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="CLOUD" 
+    title="CLOUD"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://icongr.am/material/cloud.svg?size=128&color=0233f7" 
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="TREVO" 
+    title="TREVO"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+    src="https://icongr.am/material/clover.svg?size=128&color=02f78d"
+    />
           
 <img 
     align="left" 
