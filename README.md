@@ -9,6 +9,7 @@ Antes de mergulhar no mundo da TI, atuei em funções administrativas, onde apre
 É o meu espaço para aprender, testar ideias e evoluir um pouco mais a cada projeto.
 
 💡 “Transformando conhecimento técnico em soluções práticas, com foco, ética e curiosidade por tudo que envolve tecnologia.”
+    check my linkedin https://www.linkedin.com/in/theandrenazareth/
 
 <p align="left">
     <a 
