@@ -21,7 +21,7 @@ Antes de mergulhar no mundo da TI, atuei em funções administrativas, onde apre
 
 ---
 
-### 🖥️🔐 Redes e Segurança
+### 🖥️🔐 Suporte ° Redes ° Segurança
 
 <img 
     align="left" 
