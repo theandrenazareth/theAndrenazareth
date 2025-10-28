@@ -2,14 +2,14 @@
 
 **`IT Support & Network Technician | Cybersecurity Student | Passionate About Technology`**
 
-Sou apaixonado por tecnologia e estou trilhando meu caminho nas áreas de Redes de Computadores e Segurança Cibernética.
+Estou trilhando meu caminho nas áreas de Redes de Computadores e Segurança Cibernética.
 Antes de mergulhar no mundo da TI, atuei em funções administrativas, onde aprendi o valor da organização, responsabilidade e do trabalho em equipe — habilidades que hoje aplico nos meus projetos técnicos.
 
 🚀 Aqui no GitHub você vai encontrar meus projetos de estudo, atividades de aula e simulações práticas.
 É o meu espaço para aprender, testar ideias e evoluir um pouco mais a cada projeto.
 
 💡 “Transformando conhecimento técnico em soluções práticas, com foco, ética e curiosidade por tudo que envolve tecnologia.”
-    check my linkedin https://www.linkedin.com/in/theandrenazareth/
+    
 
 <p align="left">
     <a 
